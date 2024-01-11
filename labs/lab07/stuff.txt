@@ -1,0 +1,15 @@
+This lab is oudated
+
+Replace capnumber with 1000
+
+In the FIFO part
+Use modulo so it doesn't get out of the bounds of the array
+
+
+Test with 10k page requests
+10k are just random numbers?
+Make cache size 100
+Do the same things for the other two
+
+
+
